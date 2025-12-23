@@ -1,0 +1,7 @@
+{
+  "name": "Vibrant Christmas Tree",
+  "description": "A 3D interactive Christmas tree with vibrant colors, gesture control, and photo memories.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
